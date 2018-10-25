@@ -11,3 +11,4 @@ echo "Branch1 1";
 echo "Branch1 2";
 echo "Branch2 1";
 echo "Branch1 3";
+echo "Master 8";
