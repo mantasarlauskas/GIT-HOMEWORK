@@ -6,3 +6,4 @@ echo "Master 3";
 echo "Master 4";
 echo "Master 5";
 echo "Master 6";
+echo "Master 7";
